@@ -22,7 +22,7 @@ Have questions or suggestions? Feel free to reach out! 📧
 
 ## ❗To Do List
 
-- [x] Search users by username
+- [x] Searching users by username
 - [x] Random users
 - [x] Total user logged and total messages logged
 - [x] Refresh button
