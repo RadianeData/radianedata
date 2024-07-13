@@ -20,6 +20,17 @@ Have questions or suggestions? Feel free to reach out! 📧
 - **Email**: [valentineuh@proton.me](mailto:valentineuh@proton.me)
 - **Discord**: @valentineuh
 
+## ❗To Do List
+
+- [x] Search users by username
+- [x] Random users
+- [x] Total user logged and total messages logged
+- [x] Refresh button
+- [x] Search history list
+- [x] Save user info in dictionary
+- [ ] Searching user by ID
+- [ ] List of all server being tracked
+
 ## 🎉 Acknowledgements
 
 A big thank you to everyone who supports this project and makes it shine! ✨
