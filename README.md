@@ -11,10 +11,7 @@
 
 ## 💻 Languages Used
 
-- **HTML5** 📝
-- **CSS3** 🎨
-- **JavaScript** 🚀
-- **Python** 🐍
+[![Languages Used](https://skillicons.dev/icons?i=html,css,nodejs,javascript,python&theme=dark)](https://skillicons.dev)
 
 ## 📬 Contact
 
