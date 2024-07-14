@@ -38,6 +38,6 @@ A big thank you to everyone who supports this project and makes it shine! ✨
 
 ---
 
-![snake animation](https://github.com/RadianeData/radianedata/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/RadianeData/radianedata/blob/output/github-contribution-grid-snake-dark.svg)
 
 Made with 💜 by [Valentine](https://github.com/valxe)
