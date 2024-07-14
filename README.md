@@ -31,6 +31,7 @@ Have questions or suggestions? Feel free to reach out! 📧
 - [x] Save user info in a dictionary
 - [ ] Search users by ID
 - [ ] List all servers being tracked
+- [ ] Show users banner
 
 ## 🎉 Acknowledgements
 
