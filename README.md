@@ -26,6 +26,7 @@ Have questions or suggestions? Feel free to reach out! 📧
 - [x] Display random users
 - [x] Show total users logged and total messages logged
 - [x] Add refresh button
+- [ ] Store only the 100 most recent user messages, as storage isn't free xD.
 - [x] Maintain search history list
 - [x] Save user info in a dictionary
 - [ ] Search users by ID
