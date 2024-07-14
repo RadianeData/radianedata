@@ -38,6 +38,4 @@ Have questions or suggestions? Feel free to reach out! 📧
 
 A big thank you to everyone who supports this project and makes it shine! ✨
 
---
-
-Made with 💜 by [Valentine](https://github.com/valxe)
+ # Made with 💜 by [Valentine](https://github.com/valxe)
