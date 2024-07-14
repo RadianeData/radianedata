@@ -38,4 +38,6 @@ A big thank you to everyone who supports this project and makes it shine! ✨
 
 ---
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 Made with 💜 by [Valentine](https://github.com/valxe)
