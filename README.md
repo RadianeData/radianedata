@@ -2,7 +2,7 @@
 
 ## 🎨 About Radiane
 
-**Radiane** is a magical project where we store user data and share them for **FREE**! 💜💅 From vibrant designs to enchanting features, Radiane is your go-to project for a splash of color and a sprinkle of sparkle.
+**Radiane** is a captivating project where we store and share user data for **FREE**! 💜💅 From vibrant designs to enchanting features, Radiane is your go-to project for a splash of color and a sprinkle of sparkle.
 
 ## 🚀 Project Goals
 
@@ -20,16 +20,16 @@ Have questions or suggestions? Feel free to reach out! 📧
 - **Email**: [valentineuh@proton.me](mailto:valentineuh@proton.me)
 - **Discord**: @valentineuh
 
-## ❗To Do List
+## ❗ To-Do List
 
-- [x] Searching users by username
-- [x] Random users
-- [x] Total user logged and total messages logged
-- [x] Refresh button
-- [x] Search history list
-- [x] Save user info in dictionary
-- [ ] Searching user by ID
-- [ ] List of all server being tracked
+- [x] Search users by username
+- [x] Display random users
+- [x] Show total users logged and total messages logged
+- [x] Add refresh button
+- [x] Maintain search history list
+- [x] Save user info in a dictionary
+- [ ] Search users by ID
+- [ ] List all servers being tracked
 
 ## 🎉 Acknowledgements
 
