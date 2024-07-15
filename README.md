@@ -33,6 +33,7 @@ Have questions or suggestions? Feel free to reach out! 📧
 - [ ] Search users by ID
 - [ ] List all servers being tracked
 - [ ] Show users banner
+- [ ] Script to scrape old message instead of just looking for new one.
 
 ## 🎉 Acknowledgements
 
