@@ -30,9 +30,9 @@ Have questions or suggestions? Feel free to reach out! 📧
 - [x] Maintain search history list
 - [x] Save user info in a dictionary
 - [x] Developing a Discord bot work like the website.
+- [x] Show users banner
 - [ ] Search users by ID
 - [ ] List all servers being tracked
-- [ ] Show users banner
 - [ ] Script to scrape old message instead of just looking for new one.
 
 ## 🎉 Acknowledgements
