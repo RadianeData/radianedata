@@ -31,6 +31,7 @@ Have questions or suggestions? Feel free to reach out! 📧
 - [x] Save user info in a dictionary
 - [x] Developing a Discord bot work like the website.
 - [x] Show users banner
+- [x] Option to logout
 - [ ] Search users by ID
 - [ ] List all servers being tracked
 - [ ] Script to scrape old message instead of just looking for new one.
