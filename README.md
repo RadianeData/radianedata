@@ -11,7 +11,7 @@
 
 ## 💻 Languages Used
 
-[![Languages Used](https://skillicons.dev/icons?i=angular,html,css,nodejs,javascript,python,go,nginx&theme=dark)](https://skillicons.dev)
+[![Languages Used](https://skillicons.dev/icons?i=angular,vite,html,css,nodejs,javascript,python,go,nginx&theme=dark)](https://skillicons.dev)
 
 ## 📬 Contact
 
