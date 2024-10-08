@@ -17,7 +17,7 @@
 
 Have questions or suggestions? Feel free to reach out! 📧
 
-- **Email**: [valentineuh@proton.me](mailto:valentineuh@proton.me)
+- **Email**: [contact@radiane.xyz](mailto:contact@radiane.xyz)
 - **Discord**: @edynia
 
 ## ❗ To-Do List
