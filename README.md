@@ -18,7 +18,7 @@
 Have questions or suggestions? Feel free to reach out! 📧
 
 - **Email**: [valentineuh@proton.me](mailto:valentineuh@proton.me)
-- **Discord**: @valentineuh
+- **Discord**: @edynia
 
 ## ❗ To-Do List
 
