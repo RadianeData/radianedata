@@ -32,9 +32,9 @@ Have questions or suggestions? Feel free to reach out! 📧
 - [x] Developing a Discord bot work like the website.
 - [x] Show users banner
 - [x] Option to logout
+- [X] Script to scrape old message instead of just looking for new one.
 - [ ] Search users by ID
 - [ ] List all servers being tracked
-- [ ] Script to scrape old message instead of just looking for new one.
 
 ## 🎉 Acknowledgements
 
