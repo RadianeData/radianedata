@@ -29,7 +29,7 @@ Have questions or suggestions? Feel free to reach out! 📧
 - [x] Store only the 100 most recent user messages, as storage isn't free xD.
 - [x] Maintain search history list
 - [x] Save user info in a dictionary
-- [x] Developing a Discord bot work like the website.
+- [x] Developing a Discord bot that work like the website.
 - [x] Show users banner
 - [x] Option to logout
 - [X] Script to scrape old message instead of just looking for new one.
